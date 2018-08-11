@@ -1,0 +1,8 @@
+2018-07-23 17:52:03,313 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-23 17:52:03,313 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-07-23 17:52:07,990 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-23 17:52:08,908 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-07-23 17:52:10,036 - BrowserEngine - INFO - Maximize the current window.
+2018-07-23 17:52:10,038 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-23 17:52:10,083 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-07-23 17:52:10,233 - BasePage - INFO - Had type ' selenium ' in inputBox

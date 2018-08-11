@@ -1,0 +1,31 @@
+2018-07-24 16:57:08,619 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-24 16:57:08,619 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-07-24 16:57:13,520 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-24 16:57:14,239 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-07-24 16:57:15,361 - BrowserEngine - INFO - Maximize the current window.
+2018-07-24 16:57:15,366 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-24 16:57:15,378 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-07-24 16:57:18,425 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-24 16:57:18,427 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-07-24 16:57:23,592 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-24 16:57:24,299 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-07-24 16:57:25,444 - BrowserEngine - INFO - Maximize the current window.
+2018-07-24 16:57:25,447 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-24 16:57:32,987 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-24 16:57:36,015 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-24 16:57:36,015 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-07-24 16:57:40,665 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-24 16:57:41,079 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-07-24 16:57:42,225 - BrowserEngine - INFO - Maximize the current window.
+2018-07-24 16:57:42,226 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-24 16:57:42,266 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-07-24 16:57:42,390 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-07-24 16:57:42,414 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-07-24 16:57:42,489 - BasePage - INFO - The element '  ' was clicked.
+2018-07-24 16:57:45,063 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-24 16:57:45,068 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-07-24 16:57:45,079 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-07-24 16:57:45,125 - BasePage - INFO - Had type ' python ' in inputBox
+2018-07-24 16:57:45,134 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-07-24 16:57:45,177 - BasePage - INFO - The element '  ' was clicked.
+2018-07-24 16:57:47,539 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
